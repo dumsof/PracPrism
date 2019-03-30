@@ -1,0 +1,5 @@
+--pagina que sirve para convertir en android un icono o imagen png, para cada uno de los tamaños que se necesitan.
+https://romannurik.github.io/AndroidAssetStudio/
+
+
+
